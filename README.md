@@ -14,3 +14,7 @@ I followed the implementation from the following link
 and I adapted the details to INEGI information. 
 
 ![mapBernal](mapBernal.png)
+
+The notebook can be run in the Google Colab platform: 
+
+<https://colab.research.google.com> 
