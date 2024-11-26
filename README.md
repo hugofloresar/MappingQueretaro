@@ -1,4 +1,4 @@
-# MappingQueretaro
+# Mapping Queretaro
 Use INEGI information to plot a map from Queretaro Localities.
 
 Detailed information from the state of Queretaro, municipalities and localities can be found here:
